@@ -1,3 +1,6 @@
+#!/usr/bin/python
+#coding UTF-8
+## by g1ng3rb1t3
 import asyncio
 import logging
 import re
