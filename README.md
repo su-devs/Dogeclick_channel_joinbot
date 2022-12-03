@@ -6,7 +6,7 @@ Joins dogeclick.com channel+groups more quick
 ```
 # Installation
 ```
-$ git clone https://github.com/g1ng3rb1t3/Dogeclick_channel_joinbot
+$ git clone https://github.com/0xbr0/Dogeclick_channel_joinbot
 $ cd Dogeclick_channel_joinbot
 $ pip install -r requirements.txt
 $ python channels.py (phone number)
